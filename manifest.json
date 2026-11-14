@@ -1,0 +1,25 @@
+{
+  "name": "Arkana",
+  "short_name": "Arkana",
+  "description": "Un souls-like 2D con exploración lateral y combate en primera persona.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#08070c",
+  "theme_color": "#0b0a12",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
